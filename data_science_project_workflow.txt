@@ -1,0 +1,13 @@
+Git commands:
+=============
+
+Git status
+pwd
+cd
+git add <file name ...>
+git commit -m ........
+git push
+git config --global user.name "user name"
+git config --global user.email "user email"
+
+git remote add origin url
